@@ -1,5 +1,5 @@
 # Installing-OpenClaw-in-Windows
-This article provides instructions on how to install OpenClaw in the Windows environment, configure it properly, and run it in the WebUI.
+介绍如何在windows环境下安装openclaw，并且配置好，在WebUI中跑起来。
 
 1. 安装OpenClaw
 
