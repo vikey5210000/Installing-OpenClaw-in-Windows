@@ -173,7 +173,7 @@ AI模型APIkey/OAuth凭据：C:\Users\你的用户名\.openclaw\agents\main\agen
 
 主配置文件(Gateway端口、bind 模式、token等)：
 
-C:\Users\你的用户名\.openclaw\openclaw.json
+C:\Users\你的用户名\\.openclaw\openclaw.json
 
 ```powershell
 {
@@ -256,7 +256,7 @@ C:\Users\你的用户名\.openclaw\openclaw.json
   }
 }
 ```
-AI模型apikey/OAuth凭据：C:\Users\你的用户名\.openclaw\agents\main\agent\auth-profiles.json
+AI模型apikey/OAuth凭据：C:\Users\你的用户名\\.openclaw\agents\main\agent\auth-profiles.json
 ```powershell
 {
   "version": 1,
