@@ -289,11 +289,9 @@ AI模型apikey/OAuth凭据：C:\Users\你的用户名\\.openclaw\agents\main\age
 }
 ```
 需要将【YOUR-MOONSHOT-KIMI-API-KEY】和【YOUR-ZHIPU-ZAI-API-KEY】替换为你真实的apikey。
-然后启动OpenClaw gateway，启动方式有两种：
+然后启动OpenClaw gateway：
 
-* 命令行直接重启，openclaw gateway restart
-
-* 手动重启，先 Ctrl+C 停止，然后：openclaw gateway --port 18789 --verbose
+* 手动重启，先 Ctrl+C 停止gateway，然后：openclaw gateway --port 18789 --verbose
 
 启动完gateway，就可以通过[http://127.0.0.1:18789/](http://127.0.0.1:18789/)这个链接访问Web UI了，赶紧试试吧。
 
